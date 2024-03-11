@@ -1,20 +1,22 @@
-# Assignment 08-09
+#Proper Trench Coats - Online Ordering Application
 
-## Requirements
-- Create a graphical user interface using the Qt framework for the problem you have been working on (A04-05, A06, A07).
+Welcome to the Proper Trench Coats Store Online Ordering Application README! This application is designed to facilitate online ordering of fashionable and elegant trench coats. The application offers two modes: administrator and user. Below, you'll find detailed information on each mode and the functionalities available. Administrators can manage the trench coat database, while users can explore the available trench coats and make purchases.
+####Admin mode:
+>add new trench coat;
+>delete trench coat;
+>update trench coat info;
+>view all trench coat;
 
-## Week 11
-- Implement the interface design, without using the Qt Designer. Use layouts to design your interface.
-- The list or table displaying the repository entities in administrator mode should be populated using your input file. 
+####User mode:
+>browse trench coats;
+>add trench coat to basket;
+>continue browsing;
+>view shopping basket(either in command line, CSV or HTML format);
 
-## Week 13 
--	All functionalities must be available through the GUI. You may use Qt Designer, if you want to change the initial design of your GUI.
--	The functionality of the application must be the same (including the one-by-one iteration of objects for the user mode).
-
-## Bonus possibility (0.2p, deadline week 13)
-Create a graphical representation of the data in your application. You have an example below: a bar chart representing the number of songs for each artist. Your representations can be a bar chart, a pie chart or another type of chart. You can even use circles or rectangles or any other geometric shapes to represent the data.
-
-Hint: You can use QPainter (https://doc.qt.io/qt-6/qpainter.html), QGraphicsScene (https://doc.qt.io/qt-6/qgraphicsscene.html) or a special widget designed for plotting and data visualisation – QCustomPlot (http://www.qcustomplot.com/).
-
-<img width="704" alt="Screenshot 2021-04-17 at 20 24 04" src="https://user-images.githubusercontent.com/25611695/115121335-df0f7e00-9fba-11eb-8839-40cd55da1d69.png">
-
+###Additional Features
+>usage of STL vector - improving memory management and performance while maintaining compatibility with standard library containers;
+>usage of STL algorithms - enhancing readability and reducing the likelihood of errors;
+>test coverage requirement - to ensure the reliability and robustness of the application, a minimum test coverage of 98% has been enforced for all layers, except the UI;
+>data persistence - entities are now stored in a text file using the iostream library. Upon starting the program, entities are read from the file, and modifications made during program execution are stored back in the file;
+>exception handling - exceptions are utilized to signal errors, including repository errors and validation errors;
+>file format selection - depending on the user's choice data can be store either in CSV or HTML format;
