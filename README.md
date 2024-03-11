@@ -1,4 +1,4 @@
-# 📈Proper Trench Coats - Online Ordering Application
+# Proper Trench Coats - Online Ordering Application📈
 
 Welcome to the Proper Trench Coats Store Online Ordering Application README! This application is designed to facilitate online ordering of fashionable and elegant trench coats. The application offers two modes: administrator and user. Below, you'll find detailed information on each mode and the functionalities available. Administrators can manage the trench coat database, while users can explore the available trench coats and make purchases.
 
