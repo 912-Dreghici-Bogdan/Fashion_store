@@ -1,0 +1,6 @@
+38,100,1,black,https://www.checkvintageshop.ro/shop_products_item/&spid=5861?gclid=Cj0KCQjwxMmhBhDJARIsANFGOStzFQzQjvXzUSwSFIcSzSa-aWzm-qOinVyvsxGS0DYK5MAGy7smO_MaAnx5EALw_wcB
+44,78,1,brown,https://www.tom-tailor.store/ro/catalog/produs/ro-femei/ro-femei-jachete/p/trenci-maro_4101438?gclid=Cj0KCQjwxMmhBhDJARIsANFGOSvz_GursIRlt8-xUStNby0kZB7ZraGvoWtPEz_VLYJlbU8PVoi6lSwaAgcUEALw_wcB
+40,300,1,green,https://ro.marinarinaldi.com/p-2021103004060-tattile-dark-green?gclid=Cj0KCQjwxMmhBhDJARIsANFGOSv3ZkLhDoYvKagFoRPl5jXFBBKzyp0DtqT17upIGKYNUM6-c1KMFo4aApAuEALw_wcB&gclsrc=aw.ds
+36,200,1,beije,https://www.google.com/url?sa=i&url=https%3A%2F%2Foutfitbook.fr%2Fen%2Fcoats-jackets%2F6103-longline-trench-coat.html&psig=AOvVaw3uOXsxllQ8em9YhkNuCGTC&ust=1681153605681000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjn8q2_nf4CFQAAAAAdAAAAABAN
+50,199,1,black,https://www.google.com/url?sa=i&url=https%3A%2F%2Fcockpitusa.com%2Fproducts%2Fthe-agent-trench-coat&psig=AOvVaw3uOXsxllQ8em9YhkNuCGTC&ust=1681153605681000&source=images&cd=vfe&ved=0CBMQjhxqFwoTCMjn8q2_nf4CFQAAAAAdAAAAABAT
+12,12,1,12,12

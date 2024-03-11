@@ -1,0 +1,5 @@
+D:/Faculta/An 1/Semestrul_2/Object_orinted_programing/Laboratoare/a89-912-Dreghici-Bogdan/cmake-build-debug/CMakeFiles/a89_912_Dreghici_Bogdan_1.dir
+D:/Faculta/An 1/Semestrul_2/Object_orinted_programing/Laboratoare/a89-912-Dreghici-Bogdan/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Faculta/An 1/Semestrul_2/Object_orinted_programing/Laboratoare/a89-912-Dreghici-Bogdan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Faculta/An 1/Semestrul_2/Object_orinted_programing/Laboratoare/a89-912-Dreghici-Bogdan/cmake-build-debug/CMakeFiles/a89_912_Dreghici_Bogdan_1_autogen_timestamp_deps.dir
+D:/Faculta/An 1/Semestrul_2/Object_orinted_programing/Laboratoare/a89-912-Dreghici-Bogdan/cmake-build-debug/CMakeFiles/a89_912_Dreghici_Bogdan_1_autogen.dir
