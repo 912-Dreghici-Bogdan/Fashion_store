@@ -16,7 +16,7 @@ Welcome to the Proper Trench Coats Store Online Ordering Application README! Thi
 - continue browsing
 - view shopping basket (either in command line, CSV, or HTML format)
 
-### 🧠Additional Features:
+### 📚Additional Features:
 
 - Usage of STL vector: Improving memory management and performance while maintaining compatibility with standard library containers
 - Usage of STL algorithms: Enhancing readability and reducing the likelihood of errors
